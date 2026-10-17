@@ -1,0 +1,8 @@
+Generated using the built-in image_gen tool.
+
+Use case: stylized-concept
+Asset type: macOS application icon for Tether, a small utility that syncs files between computers.
+Primary request: two tin cans connected by a string, the classic tin-can telephone, as a polished, friendly macOS app icon.
+Style: carefully crafted minimal 3D illustration, tactile silver metal cans with subtle ribs, clean silhouettes, softly rounded edges. Two clearly distinct cans angled toward each other, one thin continuous visible string joining their closed bottoms, slight gentle curve in the string. Open rims visible so the objects unmistakably read as tin cans, not mugs; no handles.
+Composition: square 1024x1024 icon asset; cans and string fill the central area, legible at small sizes; a single understated rounded-square tile behind the symbol with soft depth and restrained contrast. Transparent outside the rounded-square tile, consistent generous macOS icon margins. No surrounding scene.
+Constraints: exactly two cans, exactly one connecting string, no text, no letters, no tagline, no watermark, no other objects. Actual alpha transparency outside the tile.
